@@ -1,3 +1,7 @@
+Forked from https://github.com/TAPevents/tap-i18n
+
+Fallback language `pt-BR`
+
 # tap-i18n
 
 A comprehensive internationalization solution for Meteor
