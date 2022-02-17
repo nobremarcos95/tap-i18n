@@ -1,7 +1,7 @@
 Package.describe({
   name: 'bartoftutormundi:tap-i18n',
   summary: 'The known and trusted tap-i18n but with Brazilian Portuguese as fallback language',
-  version: '1.8.2',
+  version: '1.8.4',
   git: 'https://github.com/namenotrequired/tap-i18n'
 });
 
@@ -10,7 +10,7 @@ server = 'server';
 client = 'client';
 
 Package.onUse(function (api) {
-  api.versionsFrom('0.9.4');
+  api.versionsFrom(['0.9.4', '2.3']);
 
   api.use('coffeescript', both);
   api.use('underscore', both);
