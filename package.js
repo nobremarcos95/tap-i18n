@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'bartoftutormundi:tap-i18n',
+  name: 'nobremarcos95:tap-i18n',
   summary: 'The known and trusted tap-i18n but with Brazilian Portuguese as fallback language',
   version: '1.8.4',
-  git: 'https://github.com/namenotrequired/tap-i18n'
+  git: 'https://github.com/nobremarcos95/tap-i18n'
 });
 
 both = ['server', 'client'];
